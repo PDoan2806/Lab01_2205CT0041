@@ -83,5 +83,3 @@
 
 ## 7. Xác nhận xử lý dữ liệu
 
-- [x] Thư mục nộp không chứa ảnh, embedding, kho mẫu (`TH10_kho-mau.json`, `TH10_deepface_kho-mau.json`), nhật ký (`TH10_nhat-ky.jsonl`, `TH10_deepface_nhat-ky.jsonl`) có mã giả danh.
-- [x] Dữ liệu khuôn mặt thử nghiệm chỉ dùng tập chuẩn LFW và không đưa vào thư mục nộp; nếu nhóm có thu thập thêm ảnh thành viên thì đã xoá toàn bộ và ký biên bản xoá dữ liệu với trợ giảng.
